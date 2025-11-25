@@ -2,10 +2,7 @@
 
 # Student Record Management System (SRMS)
 
-**SRMS** is a comprehensive, console-based application developed in Java SE. It is designed to facilitate the efficient administration of student data, course catalogs, and academic records.
-
-This application serves as a practical implementation of core software engineering principles, demonstrating proficiency in Object-Oriented Programming (OOP), standard design patterns, and modern Java APIs including Streams and NIO.2.
-
+SRMS is a fully console-based application built in Java SE, which means it can run in a text environment without a graphical user interface. It is intended for managing student information, course catalogs, and academic data in an efficient manner. The application acts as an example implementation of basic software engineering principles and knowledge of Object-Oriented Programming (OOP), standard design patterns, and some recent additions to the Java language such as Streams and NIO.2.
 -----
 
 ## Functional Overview
